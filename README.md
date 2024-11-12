@@ -19,10 +19,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Install Active Directory Users and Computers
+- Promote Server To Domain Controller
+- Setup a New Forest as Mydomain.com 
+- Create an Organizational Unit (OU) called “_EMPLOYEES”
+- Create a New OU Named “_ADMINS”
+
+
 
 <h2>Deployment and Configuration Steps</h2>
 
