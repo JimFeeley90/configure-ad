@@ -31,8 +31,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 <img src=https://i.imgur.com/njZKfGE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/XiY1tPw.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/fPekgVo.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/Om9HN51.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://imgur.com/a/mFEAEEQ  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Install and configure Active Directory Domain Services</h2>
@@ -41,7 +41,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 <img src=https://i.imgur.com/A7eH5Mu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/JqCCf8T.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/DjBYfcL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/FVIW9Ur.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h2>Promote Server to Domain Controller</h2>
