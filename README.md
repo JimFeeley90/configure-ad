@@ -51,7 +51,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src=https://i.imgur.com/6pgj7Xz.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/uCxzhCo.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Add a new forest</h2> 
