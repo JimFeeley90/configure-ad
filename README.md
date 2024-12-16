@@ -50,10 +50,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src=https://i.imgur.com/uCxzhCo.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/0Awwx3Z.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>Add a new forest</h2> 
+<h2>Add a new forest: To add a new forest in Active Directory, open "Server Manager" on your Windows Server and ensure that the Active Directory Domain Services (AD DS) role is installed. Once installed, click on the notification flag in "Server Manager" and select "Promote this server to a domain controller." In the "Active Directory Domain Services Configuration Wizard," choose the option to create a new forest. Enter the desired domain name for your forest, such as "example.com," and configure the forest and domain functional levels. Set a Directory Services Restore Mode (DSRM) password, and review your settings. Click "Next" and then "Install." The server will restart to complete the process, and it will now be the first Domain Controller in the newly created forest.</h2> 
 </p>
 <br/>
 
