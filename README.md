@@ -40,11 +40,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src=https://i.imgur.com/A7eH5Mu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/DjBYfcL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/TmfcD8u.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/FVIW9Ur.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2>Promote Server to Domain Controller</h2>
+<h2>Promote Server to Domain Controller: To promote a server to a Domain Controller, first, ensure that Active Directory Domain Services (AD DS) is installed on the server. Open "Server Manager" and click on the notification flag at the top, then select "Promote this server to a domain controller." In the "Active Directory Domain Services Configuration Wizard," choose whether you are adding the server to an existing domain or creating a new domain. For a new domain, enter the desired domain name and configure domain and forest functional levels. Set a Directory Services Restore Mode (DSRM) password, and review the configuration before proceeding. Click "Next" and then "Install." The server will automatically restart to complete the promotion, and it will now function as a Domain Controller for your Active Directory environment.</h2>
 <p>
 
 </p>
