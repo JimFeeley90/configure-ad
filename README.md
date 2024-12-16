@@ -58,4 +58,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br/>
 
 <img src=https://i.imgur.com/jltuJwt.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<h2>Create Employee and Admin Organizational units</h2>
+<h2>Create Employee and Admin Organizational units: To create Employee and Admin Organizational Units (OUs) in Active Directory, open "Active Directory Users and Computers" on your Domain Controller. Right-click on your domain name and select "New" > "Organizational Unit." Name the first OU as "Employees" and click "OK." Repeat the process to create the "Admins" OU. These OUs will help organize and manage user accounts, with the "Employees" OU containing general staff accounts and the "Admins" OU containing administrative accounts. After creation, you can move existing user accounts into the appropriate OUs by right-clicking on the user account, selecting "Move," and choosing the correct OU. This structure helps apply specific group policies and permissions to different sets of users.</h2>
