@@ -32,10 +32,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img src=https://i.imgur.com/K8o2wHM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/1CwDPSI.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/rjErOkX.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/Cxy615X.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p>
-<h2>Install and configure Active Directory Domain Services</h2>
+<h2>Install and configure Active Directory Domain Services: To install and configure Active Directory Domain Services (AD DS), start by opening the "Server Manager" on your Windows Server. Click on "Manage" and then select "Add Roles and Features." In the wizard, choose "Role-based or feature-based installation" and select the server you want to install AD DS on. From the list of roles, check "Active Directory Domain Services" and follow the prompts to install.  </h2>
 </p>
 <br />
 
